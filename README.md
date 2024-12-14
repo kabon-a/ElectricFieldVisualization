@@ -28,7 +28,7 @@ The field patterns are depicted with a beautiful combination of contour plots an
 The visualization reveals fascinating symmetry and field behavior around the charges, providing insights into the impact of geometry on electric field patterns. Below is a sneak peek of an example result:
 
 
-![electric_field_visualization_4](https://github.com/user-attachments/assets/3cc3a0a1-de49-4d54-a432-b9a8ab43e358)
+![Figure_4](https://github.com/user-attachments/assets/b43092a7-7ad8-4639-9fe6-1344fedcf48a)
 
 
 **💡 What’s Next?**
