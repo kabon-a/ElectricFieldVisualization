@@ -2,7 +2,7 @@
 Contains various codes for the analysis of the electric field of various symmetric and assymetric charge configurations
 
 # -----------------------------------------------------------------
-# Written By Abraham Kabon
+# Abraham Kabon
 
 **⚡ Simulating Electric Fields: A Blend of Physics and Python**
 
